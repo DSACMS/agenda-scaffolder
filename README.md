@@ -21,6 +21,7 @@ TODO: Good to include since this is an agency-led project -->
 ### Team Mission
 TODO: Good to include since this is an agency-led project -->
 
+<!--
 ## Core Team
 
 A list of core team members responsible for the code and documentation in this repository can be found in [COMMUNITY.md](COMMUNITY.md).
@@ -28,6 +29,7 @@ A list of core team members responsible for the code and documentation in this r
 ## Repository Structure
 
 <!-- TODO: Including the repository structure helps viewers quickly understand the project layout. Using the "tree -d" command can be a helpful way to generate this information, but, be sure to update it as the project evolves and changes over time. -->
+<!--
 
 ```plaintext
 .
@@ -37,6 +39,7 @@ A list of core team members responsible for the code and documentation in this r
 **{list directories and descriptions}**
 
 <!-- TODO: Add a 'table of contents" for your documentation. Tier 0/1 projects with simple README.md files without many sections may or may not need this, but it is still extremely helpful to provide "bookmark" or "anchor" links to specific sections of your file to be referenced in tickets, docs, or other communication channels. -->
+<!--
 
 **{list of .md at top directory and descriptions}**
 
@@ -49,10 +52,12 @@ The following guide is for members of the project team who have access to the re
 <!--- TODO - with example below:
 This project is monorepo with several apps. Please see the [api](./api/README.md) and [frontend](./frontend/README.md) READMEs for information on spinning up those projects locally. Also see the project [documentation](./documentation) for more info.
 -->
+<!--
 
 ## Coding Style and Linters
 
 <!-- TODO - Add the repo's linting and code style guidelines -->
+<!--
 
 Each application has its own linting and testing guidelines. Lint and code tests are run on each commit, so linters and tests should be run locally before committing.
 
@@ -71,6 +76,7 @@ This project uses **continuous deployment** using [Github Actions](https://githu
 
 Pull-requests are merged to `main` and the changes are immediately deployed to the development environment. Releases are created to push changes to production.
 -->
+<!--
 
 ## Contributing
 
