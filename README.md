@@ -101,7 +101,7 @@ Information about how the agenda-scaffolder community is governed may be found i
 
 ## Feedback
 
-If you have ideas for how we can improve or add to our capacity building efforts and methods, please let us know by filing an [issue on our GitHub repository](https://github.com/DSACMS/agenda-scaffolder/issues/new)**
+If you have ideas for how we can improve or add to our capacity building efforts and methods, please let us know by filing an [issue on our GitHub repository](https://github.com/DSACMS/agenda-scaffolder/issues/new).
 
 <!--
 ## Glossary
