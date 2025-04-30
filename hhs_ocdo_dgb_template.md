@@ -1,4 +1,4 @@
-<img align="right" height="10%" width="10%" src="https://cdo.hhs.gov/resource/1695834954000/ocdo_logo_white"/>
+<img height="10%" width="10%" src="https://cdo.hhs.gov/resource/1695834954000/ocdo_logo_white"/>
 
 ---
 
