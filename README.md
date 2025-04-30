@@ -1,10 +1,9 @@
 # agenda-scaffolder
-
-This is the project description, could match github.com repo description.
+Tools and templates for crowdsourcing agendas for community meetings.
 
 ## About the Project
+This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.
 
-**{project statement}**
 
 <!---
 ### Project Vision
