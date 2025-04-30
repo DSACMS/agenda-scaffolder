@@ -1,4 +1,5 @@
-<img style="float:right;" src="https://cdo.hhs.gov/resource/1695834954000/ocdo_logo_white" align="right" height="10%" width="10%"/>
+<img src="https://cdo.hhs.gov/resource/1695834954000/ocdo_logo_white" align="right" height="10%" width="10%"/><br/>
+
 # HHS DATA GOVERNANCE BOARD
 
 ### <div style="float:left;">DAY, MONTH YEAR</div> <div align="right">MEETING LOCATION</div> <div style="float:left;">MEETING TIME</div> <div align="right">MEETING URL</div>
