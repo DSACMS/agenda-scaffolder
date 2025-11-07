@@ -1,0 +1,74 @@
+{
+  "name": "agenda-scaffolder",
+  "description": "Tools and templates for crowdsourcing agendas for community meetings.",
+  "longDescription": "This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/DSACMS/agenda-scaffolder/blob/main/LICENSE"
+      }
+    ],
+    "usageType": [
+      "openSource"
+    ],
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/DSACMS/agenda-scaffolder",
+  "repositoryHost": "github.com/DSACMS",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "laborHours": 10,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "task-management",
+    "time-management",
+    "time-tracking",
+    "web-collaboration",
+    "workflow-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Markdown"
+  ],
+  "maintenance": "internal",
+  "contractNumber": [
+    "0"
+  ],
+  "SBOM": "https://github.com/DSACMS/agenda-scaffolder/network/dependencies",
+  "date": {
+    "created": "2025-04-23T20:59:45Z",
+    "lastModified": "2025-11-04T18:14:11Z",
+    "metadataLastUpdated": "2025-11-07T19:36:01.452Z"
+  },
+  "tags": [
+    "dsacms-tier3"
+  ],
+  "contact": {
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS Open Source Team"
+  },
+  "feedbackMechanism": "https://github.com/DSACMS/agenda-scaffolder/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "standards",
+  "userInput": false,
+  "fismaLevel": "low",
+  "group": "CMS/OA/DSAC",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [
+    "operational"
+  ],
+  "userType": [
+    "government"
+  ],
+  "maturityModelTier": 1
+}
