@@ -1,5 +1,6 @@
 {
   "name": "agenda-scaffolder",
+  "version": "",
   "description": "Tools and templates for crowdsourcing agendas for community meetings.",
   "longDescription": "This project serves as a tool for crowdsourcing agendas for community meetings using basic features of a github repository such as markdown files, and issue templates.",
   "status": "Production",
@@ -19,10 +20,15 @@
   "repositoryURL": "https://github.com/DSACMS/agenda-scaffolder",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10,
+  "laborHours": 2786,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -35,18 +41,19 @@
     "workflow-management"
   ],
   "softwareType": "standalone/web",
-  "languages": [
-    "Markdown"
-  ],
+  "languages": [],
   "maintenance": "internal",
   "contractNumber": [
     "0"
   ],
   "SBOM": "https://github.com/DSACMS/agenda-scaffolder/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-04-23T20:59:45Z",
-    "lastModified": "2025-11-04T18:14:11Z",
-    "metadataLastUpdated": "2025-11-07T19:36:01.452Z"
+    "lastModified": "2025-11-07T19:43:25Z",
+    "metadataLastUpdated": "2025-12-01T02:31:44.454Z"
   },
   "tags": [
     "dsacms-tier3"
